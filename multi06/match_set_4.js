@@ -103,14 +103,15 @@ fields_seperator2 = '~~';
 // 多內容用 fields_seperator2(~~) 分隔，會用亂數取用其中一個
 //
 questionLines = function(){/*--這一行請勿更改--
-2有1個##https://Anne201.github.io/multi06.github.io/multi06/samples/1.png
-2有2個##https://Anne201.github.io/multi06.github.io/multi06/samples/2.png
-2有3個##https://Anne201.github.io/multi06.github.io/multi06/samples/3.png
-2有4個##https://Anne201.github.io/multi06.github.io/multi06/samples/4.png
-2有5個##https://Anne201.github.io/multi06.github.io/multi06/samples/5.png
-2有6個##https://Anne201.github.io/multi06.github.io/multi06/samples/6.png
-2有7個##https://Anne201.github.io/multi06.github.io/multi06/samples/7.png
-2有8個##https://Anne201.github.io/multi06.github.io/multi06/samples/8.png
-2有9個##https://Anne201.github.io/multi06.github.io/multi06/samples/9.png
+3的8倍##8個3
+4的2倍##2個4
+5的3倍##3個5
+7的2倍##2個7
+2的5倍##5個2
+5的2倍##2個5
+6的4倍##4個6
+8的3倍##3個8
+9的1倍##1個9
+10的3倍##3個10
 -----*/}.toString().replace(/\r/g,"").slice("function(){/*--這一行請勿更改--".length+1,-9);
 

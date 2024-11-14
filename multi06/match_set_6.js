@@ -112,5 +112,6 @@ questionLines = function(){/*--這一行請勿更改--
 2X7##https://Anne201.github.io/multi06.github.io/multi06/samples/7.png
 2X8##https://Anne201.github.io/multi06.github.io/multi06/samples/8.png
 2X9##https://Anne201.github.io/multi06.github.io/multi06/samples/9.png
+2X10##https://Anne201.github.io/multi06.github.io/multi06/samples/13.png
 -----*/}.toString().replace(/\r/g,"").slice("function(){/*--這一行請勿更改--".length+1,-9);
 

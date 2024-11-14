@@ -112,5 +112,6 @@ questionLines = function(){/*--這一行請勿更改--
 5的7倍##https://Anne201.github.io/multi06.github.io/multi06/samples/57.png
 5的8倍##https://Anne201.github.io/multi06.github.io/multi06/samples/58.png
 5的9倍##https://Anne201.github.io/multi06.github.io/multi06/samples/59.png
+5的10倍##https://Anne201.github.io/multi06.github.io/multi06/samples/14.png
 -----*/}.toString().replace(/\r/g,"").slice("function(){/*--這一行請勿更改--".length+1,-9);
 

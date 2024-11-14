@@ -103,15 +103,15 @@ fields_seperator2 = '~~';
 // 多內容用 fields_seperator2(~~) 分隔，會用亂數取用其中一個
 //
 questionLines = function(){/*--這一行請勿更改--
-2X1##https://Anne201.github.io/multi06.github.io/multi06/samples/1.png
-2X2##https://Anne201.github.io/multi06.github.io/multi06/samples/2.png
-2X3##https://Anne201.github.io/multi06.github.io/multi06/samples/3.png
-2X4##https://Anne201.github.io/multi06.github.io/multi06/samples/4.png
-2X5##https://Anne201.github.io/multi06.github.io/multi06/samples/5.png
-2X6##https://Anne201.github.io/multi06.github.io/multi06/samples/6.png
-2X7##https://Anne201.github.io/multi06.github.io/multi06/samples/7.png
-2X8##https://Anne201.github.io/multi06.github.io/multi06/samples/8.png
-2X9##https://Anne201.github.io/multi06.github.io/multi06/samples/9.png
-2X10##https://Anne201.github.io/multi06.github.io/multi06/samples/13.png
+5X1##https://Anne201.github.io/multi06.github.io/multi06/samples/51.png
+5X2##https://Anne201.github.io/multi06.github.io/multi06/samples/52.png
+5X3##https://Anne201.github.io/multi06.github.io/multi06/samples/53.png
+5X4##https://Anne201.github.io/multi06.github.io/multi06/samples/54.png
+5X5##https://Anne201.github.io/multi06.github.io/multi06/samples/55.png
+5X6##https://Anne201.github.io/multi06.github.io/multi06/samples/56.png
+5X7##https://Anne201.github.io/multi06.github.io/multi06/samples/57.png
+5X8##https://Anne201.github.io/multi06.github.io/multi06/samples/58.png
+5X9##https://Anne201.github.io/multi06.github.io/multi06/samples/59.png
+5X10##https://Anne201.github.io/multi06.github.io/multi06/samples/14.png
 -----*/}.toString().replace(/\r/g,"").slice("function(){/*--這一行請勿更改--".length+1,-9);
 

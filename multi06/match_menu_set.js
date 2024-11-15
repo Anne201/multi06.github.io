@@ -7,4 +7,5 @@ menu_items = new Array(
 , '幾有幾個和幾的幾倍(2),match_set_4.js'
 , '2的乘法,match_set_6.js'
 , '5的乘法,match_set_7.js'
+, '4的乘法,match_set_8.js'
 );
